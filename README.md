@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h2>I'm Atharv.</h2>
-<h4>I am an Frontend developer and an active UX/UI Designer. I have always been fascinated by computers and I stared programming after high school. I love learing about the core fundamentals of computers and how they work.<br>I love to code and am keen to do research on upcoming new technologies.</h4>
+<h4>I am an Frontend developer and an active UX/UI Designer. I have always been fascinated by computers and I started programming after high school. I love learing about the core fundamentals of computers and how they work.<br>I love to code and am keen to do research on upcoming new technologies.</h4>
 
 <img align="right" alt="GIF" src="https://github.com/atharv1703/TechGig/blob/master/ff6c7f526d28fa4b87cc3aaaef076156.gif" width="350" height="240" />
 
