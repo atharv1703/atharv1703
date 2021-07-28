@@ -49,7 +49,7 @@
 
 <p align="center">
 <code>
-<a href="https://twitter.com/SalpekarAtharv" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Atharv" height="30" width="40" /></a>
+<a href="https://twitter.com/SalpekarAtharv" target="_blank"><img align="center" src="![image](https://user-images.githubusercontent.com/53127015/127372897-a3d691a9-faf9-484b-8041-42333f234c8f.png)" alt="Atharv" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/atharv-salpekar-0b756b183/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Atharv" height="30" width="40"/></a>
 <a href="https://www.instagram.com/_atharv_salpekar_/"_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Atharv" height="30" width="40" /></a>
 </code>
